@@ -1,0 +1,10 @@
+body {
+    font-family:cursive;
+    background-color: lightgreen;
+    color: red;
+}
+
+
+#warn {
+    font-size: 10;
+}
